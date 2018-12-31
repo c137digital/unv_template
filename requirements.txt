@@ -1,0 +1,9 @@
+# devevlopment deps
+prospector
+pytest
+pytest-cov
+autopep8
+
+# package deps
+# aiohttp
+# fabric3
