@@ -4,8 +4,6 @@ method-complexity:
 exclude_patters:
   - "./setup.py"
 plugins:
-  bandit:
-    enabled: true
   fixme:
     enabled: true
   markdownlint:
