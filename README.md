@@ -11,7 +11,6 @@
 [![PyPI version fury.io](https://badge.fury.io/py/unv_template.svg)](https://pypi.python.org/pypi/unv_template/)
 [![PyPI download month](https://img.shields.io/pypi/dm/unv_template.svg)](https://pypi.python.org/pypi/unv_template/)
 
-
 ## What you need to change
 
 - package name to whatever you want
