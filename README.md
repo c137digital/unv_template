@@ -5,7 +5,8 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/d55631dca90a900ce134/test_coverage)](https://codeclimate.com/github/c137digital/unv_template/test_coverage)
 [![Requirements Status](https://requires.io/github/c137digital/unv_template/requirements.svg?branch=master)](https://requires.io/github/c137digital/unv_template/requirements/?branch=master)
 
-## What you need to change:
+## What you need to change
+
 - package name to whatever you want
 - setup.py
   - name
