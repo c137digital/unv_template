@@ -1,4 +1,3 @@
-# devevlopment deps
 prospector
 pytest
 pytest-cov
