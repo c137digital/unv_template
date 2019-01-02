@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name='package',
@@ -23,7 +23,8 @@ setup(
         'Topic :: Software Development :: Libraries :: Application Frameworks',
         'Topic :: Software Development :: Libraries :: Python Modules'
     ],
-    packages=['package'],
+    package_dir={'': 'src'},
+    packages=find_packages('src'),
     install_requires=[
     ],
     zip_safe=True
