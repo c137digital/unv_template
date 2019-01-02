@@ -1,8 +1,9 @@
 method-complexity:
   config:
     threshold: 11
-exclude_patters:
+exclude_patterns:
   - "./setup.py"
+  - "docs/"
 plugins:
   fixme:
     enabled: true
