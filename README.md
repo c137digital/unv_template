@@ -11,6 +11,8 @@
 [![PyPI version fury.io](https://badge.fury.io/py/unv_template.svg)](https://pypi.python.org/pypi/unv_template/)
 [![PyPI download month](https://img.shields.io/pypi/dm/unv_template.svg)](https://pypi.python.org/pypi/unv_template/)
 
+This is template for python package includes health-monitors, production-ready deploy configuration for PYPI.
+
 ## What you need to change
 
 - package name to whatever you want
