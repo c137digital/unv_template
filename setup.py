@@ -24,7 +24,21 @@ setup(
     ],
     package_dir={'': 'src'},
     packages=find_packages('src'),
-    install_requires=[
-    ],
+    install_requires=[],
+    extras_require={
+        'dev': [
+            'pylint',
+            'pycodestyle',
+            'pytest',
+            'pytest-cov',
+            'pytest-env',
+            'pytest-pythonpath',
+            'autopep8',
+            'sphinx',
+            'setuptools',
+            'wheel',
+            'twine'
+        ]
+    },
     zip_safe=True
 )
